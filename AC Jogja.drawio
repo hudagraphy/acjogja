@@ -26,6 +26,11 @@
         <mxCell id="Iq69d2L0u7uSSFG06dhG-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iq69d2L0u7uSSFG06dhG-3" target="Iq69d2L0u7uSSFG06dhG-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wCIYLKi7IF3-2XbfGk_M-2" value="Admin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iq69d2L0u7uSSFG06dhG-56">
+          <mxGeometry x="0.4609" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Iq69d2L0u7uSSFG06dhG-3" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -120,8 +125,14 @@
         <mxCell id="Iq69d2L0u7uSSFG06dhG-50" value="Teknisi mencatat kondisi perangkat setelah ditindak" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iq69d2L0u7uSSFG06dhG-55" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="wCIYLKi7IF3-2XbfGk_M-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq69d2L0u7uSSFG06dhG-55" target="wCIYLKi7IF3-2XbfGk_M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq69d2L0u7uSSFG06dhG-55" value="Admin melihat jadwal teknisi" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wCIYLKi7IF3-2XbfGk_M-5" value="Input Jadwal&lt;br&gt;Baru" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
